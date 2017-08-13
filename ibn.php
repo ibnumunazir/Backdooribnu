@@ -35,7 +35,7 @@ function login_shell() {
 <title>IndoXploit</title>
 <style type="text/css">
 html { 
-  background: url(http://wallpaperstock.net/alone-in-the-dark_wallpapers_18624_1440x900.jpg) no-repeat center center fixed; 
+  background: url(http://www.triumfo.de//thumb-1920-36389.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -118,7 +118,7 @@ if(get_magic_quotes_gpc()) {
 <style type='text/css'>
 @import url(https://fonts.googleapis.com/css?family=Ubuntu);
 html {
- background: url(http://wallpaperstock.net/alone-in-the-dark_wallpapers_18624_1440x900.jpg) no-repeat center center fixed;
+ background: url(http://www.triumfo.de//thumb-1920-36389.jpg) no-repeat center center fixed;
  -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -155,7 +155,7 @@ pre {
 
 table, th, td {
 	border-collapse:collapse;
-	background: url(http://wallpaperstock.net/alone-in-the-dark_wallpapers_18624_1440x900.jpg) no-repeat center center fixed;
+	background: url(http://www.triumfo.de//thumb-1920-36389.jpg) no-repeat center center fixed;
 	font-family: 'Ubuntu';
 	font-size: 13px;
 }
@@ -181,12 +181,12 @@ th {
 }
 
 tr:hover {
-	background: url(http://wallpaperstock.net/alone-in-the-dark_wallpapers_18624_1440x900.jpg) no-repeat center center fixed; 
+	background: url(http://www.triumfo.de//thumb-1920-36389.jpg) no-repeat center center fixed; 
 	color: #ffffff;
 }
 
 input[type=text], input[type=password], .input {
-	background: url(http://wallpaperstock.net/alone-in-the-dark_wallpapers_18624_1440x900.jpg) no-repeat center center fixed;  
+	background: url(http://www.triumfo.de//thumb-1920-36389.jpg) no-repeat center center fixed;  
 	color: #ffffff;
 	border: 1px solid #ffffff;
 	padding: 3px;
@@ -213,7 +213,7 @@ textarea {
 	padding-left: 5px;
 	margin: 10px auto;
 	resize: none;
-	background: url(http://wallpaperstock.net/alone-in-the-dark_wallpapers_18624_1440x900.jpg) no-repeat center center fixed; 
+	background: url(http://www.triumfo.de//thumb-1920-36389.jpg) no-repeat center center fixed; 
 	color: #ffffff;
 	font-family: 'Ubuntu';
 	font-size: 13px;
